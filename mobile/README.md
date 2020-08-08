@@ -1,6 +1,6 @@
 <br>
 <h1 align="center" >
-<img width="214px"  src="../web/src/assets/images/logo.svg" alt="Proffy"></img>
+<img width="214px"  src="https://svgur.com/i/Nam.svg" alt="Proffy"></img>
 </h1>
 
 <h2 align="center">
