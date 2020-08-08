@@ -25,7 +25,7 @@
     justify-content: center;
     text-decoration: none;
     transition: background-color 0.2s;
-    margin-top: 3.2rem;
+    margin-top: 2.9rem;
 }
 
 #search-teachers button:hover {
@@ -33,7 +33,7 @@
 }
 
 #page-teacher-list main{
-    margin: 3.2rem auto;
+    margin: 5.2rem auto;
     width: 90%;
 }
 
